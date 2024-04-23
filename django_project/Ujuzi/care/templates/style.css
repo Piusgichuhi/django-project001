@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    text-align: center;
+    left: top;
+    background-color: antiquewhite;
+
+}
+*{
+    background-color: aqua;
+}
